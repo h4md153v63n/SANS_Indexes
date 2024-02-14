@@ -1,5 +1,5 @@
 # SANS_Indexes
-SANS Indexes
+SANS Indexes and index templates:
 
 # Index Creator Tools
 + https://voltaire.publickey.io
