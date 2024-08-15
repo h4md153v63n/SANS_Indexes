@@ -5,7 +5,7 @@ SANS Indexes and index templates:
 + **SANS Course Indexes:** https://github.com/h4md153v63n/SANS_Indexes/tree/main/SANS-Indexes
 + **SEC-560-Index:** https://github.com/h4md153v63n/SANS_Indexes/tree/main/SEC-560-Index
 + **SEC542_Index:** https://github.com/h4md153v63n/SANS_Indexes/tree/main/SEC542_Index
-
+ 
 
 # Index Creator Tools
 + https://voltaire.publickey.io
